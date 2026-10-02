@@ -64,13 +64,13 @@ text-decoration: line-through;
 .btn {
 	display: block;
 	background-color: #051652;
-	padding: 16px 24px; 
 	color: #fff;
 	text-decoration: none;
-	border-radius: 15px; 
 	font-size: 18px;
 	font-family: sans-serf;
-	border: 1px solid transparnet;
+        padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    transition: background 0.3s;
 }
 
 .btn:hover {
