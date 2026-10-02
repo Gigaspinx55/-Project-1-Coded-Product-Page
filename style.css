@@ -9,12 +9,12 @@ body {
 }
 
 
-h1 { display:flex; flex-basis: auto;  margin: 18px 0; color: #005c6a ; font-size: 55px; padding: 20px; justify-content: center
+h1 { display:flex; flex-basis: auto;  margin: 18px 0; color: #005c6a ; font-size: 70px; padding: 20px; justify-content: center
 }
 
-h2 {display:flex; flex-basis: auto;  margin: 18px 0; color: #005c6a ; font-size: 55px; padding: 20px; justify-content: center}
+h2 {display:flex; flex-basis: auto;  margin: 18px 0; color: #005c6a ; font-size: 70px; padding: 20px; justify-content: center}
 
-h3 { display: flex; flex-basis: auto ;  margin: 18px 0; font-size: 45px; padding: 20px; justify-content: center;
+h3 { display: flex; flex-basis: auto ;  margin: 18px 0; font-size: 50px; padding: 20px; justify-content: center;
     color: #D02702 ;
 }
 
