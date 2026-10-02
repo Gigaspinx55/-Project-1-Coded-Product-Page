@@ -19,6 +19,7 @@ nav, section {
 	width: 1200px;
 	margin: 0 auto; flex-basis: auto 
 }
+
 nav{
 	display: flex; 
 	justify-content:space-between;
