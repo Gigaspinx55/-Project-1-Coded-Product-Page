@@ -1,8 +1,14 @@
 * {
 margin: 0;
 padding:0;
-box-sizing: border-box
+box-sizing: border-box;
 }
+
+body {
+    background-color: #f00;
+}
+
+
 h1 { display:flex; flex-basis: auto;  margin: 18px 0; color: #24BCD2 ; font-size: 250px; padding: 20px; justify-content: center
 }
 h2 { display: flex; flex-basis: auto ;  margin: 18px 0; 
